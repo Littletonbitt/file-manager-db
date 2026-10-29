@@ -1,0 +1,62 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Qt Creator specific files and build directories
+.qtcreator/
+build/
+CMakeLists.txt.user*
+
+# UI/Design file generated source files
+ui_*.h
+
+# MOC (Meta-Object Compiler) generated files
+moc_*.cpp
+moc_*.h
+
+# RCC (Resource Compiler) generated files
+qrc_*.cpp
+
+# UIC (User Interface Compiler) generated files
+ui_*.h
+
+# Qmake / CMake cache and build leftovers
+/.cmake/
+/CMakeCache.txt
+/CMakeFiles/
+/CMakeScripts/
+/cmake_install.cmake
+/Makefile
+/targets
+
+
+*.autosave
